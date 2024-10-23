@@ -1,0 +1,72 @@
+### YamlMime:ManagedReference
+items:
+- uid: Session_1
+  commentId: N:Session_1
+  id: Session_1
+  children:
+  - Session_1.AsCanvas
+  - Session_1.AsCommandFactory
+  - Session_1.Clear
+  - Session_1.Form1
+  - Session_1.Rect
+  - Session_1.Reset
+  - Session_1.Tri
+  - Session_1.WriteText
+  langs:
+  - csharp
+  - vb
+  name: Session_1
+  nameWithType: Session_1
+  fullName: Session_1
+  type: Namespace
+  assemblies:
+  - Session 1
+references:
+- uid: Session_1.AsCanvas
+  commentId: T:Session_1.AsCanvas
+  href: Session_1.AsCanvas.html
+  name: AsCanvas
+  nameWithType: AsCanvas
+  fullName: Session_1.AsCanvas
+- uid: Session_1.AsCommandFactory
+  commentId: T:Session_1.AsCommandFactory
+  href: Session_1.AsCommandFactory.html
+  name: AsCommandFactory
+  nameWithType: AsCommandFactory
+  fullName: Session_1.AsCommandFactory
+- uid: Session_1.Clear
+  commentId: T:Session_1.Clear
+  href: Session_1.Clear.html
+  name: Clear
+  nameWithType: Clear
+  fullName: Session_1.Clear
+- uid: Session_1.Form1
+  commentId: T:Session_1.Form1
+  href: Session_1.Form1.html
+  name: Form1
+  nameWithType: Form1
+  fullName: Session_1.Form1
+- uid: Session_1.Rect
+  commentId: T:Session_1.Rect
+  href: Session_1.Rect.html
+  name: Rect
+  nameWithType: Rect
+  fullName: Session_1.Rect
+- uid: Session_1.Reset
+  commentId: T:Session_1.Reset
+  href: Session_1.Reset.html
+  name: Reset
+  nameWithType: Reset
+  fullName: Session_1.Reset
+- uid: Session_1.Tri
+  commentId: T:Session_1.Tri
+  href: Session_1.Tri.html
+  name: Tri
+  nameWithType: Tri
+  fullName: Session_1.Tri
+- uid: Session_1.WriteText
+  commentId: T:Session_1.WriteText
+  href: Session_1.WriteText.html
+  name: WriteText
+  nameWithType: WriteText
+  fullName: Session_1.WriteText
