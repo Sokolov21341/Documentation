@@ -3,13 +3,13 @@
     {
       "src": [
         {
-          "src": "../Assesment folder/Session 1/Session 1",
+          "src": "\\Users\\Ryan Benddif\\Desktop/Assesment folder/Session 1/Session 1",
           "files": [
             "**/*.csproj"
           ]
         }
       ],
-      "dest": "docs"
+      "dest": "boose"
     }
   ],
   "build": {
