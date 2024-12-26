@@ -1,586 +1,1450 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: Session_1
-  name: Session_1
-  href: boose/Session_1.html
-  commentId: N:Session_1
-  fullName: Session_1
-  nameWithType: Session_1
-- uid: Session_1.AsCanvas
-  name: AsCanvas
-  href: boose/Session_1.AsCanvas.html
-  commentId: T:Session_1.AsCanvas
-  fullName: Session_1.AsCanvas
-  nameWithType: AsCanvas
-- uid: Session_1.AsCanvas.#ctor
-  name: AsCanvas()
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas__ctor
-  commentId: M:Session_1.AsCanvas.#ctor
+- uid: DrawingApplication
+  name: DrawingApplication
+  href: docs/DrawingApplication.html
+  commentId: N:DrawingApplication
+  fullName: DrawingApplication
+  nameWithType: DrawingApplication
+- uid: DrawingApplication.Application_UI
+  name: Application_UI
+  href: docs/DrawingApplication.Application_UI.html
+  commentId: T:DrawingApplication.Application_UI
+  fullName: DrawingApplication.Application_UI
+  nameWithType: Application_UI
+- uid: DrawingApplication.Application_UI.#ctor
+  name: Application_UI()
+  href: docs/DrawingApplication.Application_UI.html#DrawingApplication_Application_UI__ctor
+  commentId: M:DrawingApplication.Application_UI.#ctor
   name.vb: New()
-  fullName: Session_1.AsCanvas.AsCanvas()
-  fullName.vb: Session_1.AsCanvas.New()
+  fullName: DrawingApplication.Application_UI.Application_UI()
+  fullName.vb: DrawingApplication.Application_UI.New()
+  nameWithType: Application_UI.Application_UI()
+  nameWithType.vb: Application_UI.New()
+- uid: DrawingApplication.Application_UI.#ctor*
+  name: Application_UI
+  href: docs/DrawingApplication.Application_UI.html#DrawingApplication_Application_UI__ctor_
+  commentId: Overload:DrawingApplication.Application_UI.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.Application_UI.Application_UI
+  fullName.vb: DrawingApplication.Application_UI.New
+  nameWithType: Application_UI.Application_UI
+  nameWithType.vb: Application_UI.New
+- uid: DrawingApplication.Application_UI.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: docs/DrawingApplication.Application_UI.html#DrawingApplication_Application_UI_Dispose_System_Boolean_
+  commentId: M:DrawingApplication.Application_UI.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: DrawingApplication.Application_UI.Dispose(bool)
+  fullName.vb: DrawingApplication.Application_UI.Dispose(Boolean)
+  nameWithType: Application_UI.Dispose(bool)
+  nameWithType.vb: Application_UI.Dispose(Boolean)
+- uid: DrawingApplication.Application_UI.Dispose*
+  name: Dispose
+  href: docs/DrawingApplication.Application_UI.html#DrawingApplication_Application_UI_Dispose_
+  commentId: Overload:DrawingApplication.Application_UI.Dispose
+  isSpec: "True"
+  fullName: DrawingApplication.Application_UI.Dispose
+  nameWithType: Application_UI.Dispose
+- uid: DrawingApplication.Array
+  name: Array
+  href: docs/DrawingApplication.Array.html
+  commentId: T:DrawingApplication.Array
+  fullName: DrawingApplication.Array
+  nameWithType: Array
+- uid: DrawingApplication.Array.#ctor
+  name: Array()
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array__ctor
+  commentId: M:DrawingApplication.Array.#ctor
+  name.vb: New()
+  fullName: DrawingApplication.Array.Array()
+  fullName.vb: DrawingApplication.Array.New()
+  nameWithType: Array.Array()
+  nameWithType.vb: Array.New()
+- uid: DrawingApplication.Array.#ctor*
+  name: Array
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array__ctor_
+  commentId: Overload:DrawingApplication.Array.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.Array.Array
+  fullName.vb: DrawingApplication.Array.New
+  nameWithType: Array.Array
+  nameWithType.vb: Array.New
+- uid: DrawingApplication.Array.ArrayRestrictions
+  name: ArrayRestrictions()
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_ArrayRestrictions
+  commentId: M:DrawingApplication.Array.ArrayRestrictions
+  fullName: DrawingApplication.Array.ArrayRestrictions()
+  nameWithType: Array.ArrayRestrictions()
+- uid: DrawingApplication.Array.ArrayRestrictions*
+  name: ArrayRestrictions
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_ArrayRestrictions_
+  commentId: Overload:DrawingApplication.Array.ArrayRestrictions
+  isSpec: "True"
+  fullName: DrawingApplication.Array.ArrayRestrictions
+  nameWithType: Array.ArrayRestrictions
+- uid: DrawingApplication.Array.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_CheckParameters_System_String___
+  commentId: M:DrawingApplication.Array.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: DrawingApplication.Array.CheckParameters(string[])
+  fullName.vb: DrawingApplication.Array.CheckParameters(String())
+  nameWithType: Array.CheckParameters(string[])
+  nameWithType.vb: Array.CheckParameters(String())
+- uid: DrawingApplication.Array.CheckParameters*
+  name: CheckParameters
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_CheckParameters_
+  commentId: Overload:DrawingApplication.Array.CheckParameters
+  isSpec: "True"
+  fullName: DrawingApplication.Array.CheckParameters
+  nameWithType: Array.CheckParameters
+- uid: DrawingApplication.Array.Compile
+  name: Compile()
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_Compile
+  commentId: M:DrawingApplication.Array.Compile
+  fullName: DrawingApplication.Array.Compile()
+  nameWithType: Array.Compile()
+- uid: DrawingApplication.Array.Compile*
+  name: Compile
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_Compile_
+  commentId: Overload:DrawingApplication.Array.Compile
+  isSpec: "True"
+  fullName: DrawingApplication.Array.Compile
+  nameWithType: Array.Compile
+- uid: DrawingApplication.Array.Execute
+  name: Execute()
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_Execute
+  commentId: M:DrawingApplication.Array.Execute
+  fullName: DrawingApplication.Array.Execute()
+  nameWithType: Array.Execute()
+- uid: DrawingApplication.Array.Execute*
+  name: Execute
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_Execute_
+  commentId: Overload:DrawingApplication.Array.Execute
+  isSpec: "True"
+  fullName: DrawingApplication.Array.Execute
+  nameWithType: Array.Execute
+- uid: DrawingApplication.Array.GetIntArray(System.Int32,System.Int32)
+  name: GetIntArray(int, int)
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_GetIntArray_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.Array.GetIntArray(System.Int32,System.Int32)
+  name.vb: GetIntArray(Integer, Integer)
+  fullName: DrawingApplication.Array.GetIntArray(int, int)
+  fullName.vb: DrawingApplication.Array.GetIntArray(Integer, Integer)
+  nameWithType: Array.GetIntArray(int, int)
+  nameWithType.vb: Array.GetIntArray(Integer, Integer)
+- uid: DrawingApplication.Array.GetIntArray*
+  name: GetIntArray
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_GetIntArray_
+  commentId: Overload:DrawingApplication.Array.GetIntArray
+  isSpec: "True"
+  fullName: DrawingApplication.Array.GetIntArray
+  nameWithType: Array.GetIntArray
+- uid: DrawingApplication.Array.GetRealArray(System.Int32,System.Int32)
+  name: GetRealArray(int, int)
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_GetRealArray_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.Array.GetRealArray(System.Int32,System.Int32)
+  name.vb: GetRealArray(Integer, Integer)
+  fullName: DrawingApplication.Array.GetRealArray(int, int)
+  fullName.vb: DrawingApplication.Array.GetRealArray(Integer, Integer)
+  nameWithType: Array.GetRealArray(int, int)
+  nameWithType.vb: Array.GetRealArray(Integer, Integer)
+- uid: DrawingApplication.Array.GetRealArray*
+  name: GetRealArray
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_GetRealArray_
+  commentId: Overload:DrawingApplication.Array.GetRealArray
+  isSpec: "True"
+  fullName: DrawingApplication.Array.GetRealArray
+  nameWithType: Array.GetRealArray
+- uid: DrawingApplication.Array.ProcessArrayParametersCompile(System.Boolean)
+  name: ProcessArrayParametersCompile(bool)
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_ProcessArrayParametersCompile_System_Boolean_
+  commentId: M:DrawingApplication.Array.ProcessArrayParametersCompile(System.Boolean)
+  name.vb: ProcessArrayParametersCompile(Boolean)
+  fullName: DrawingApplication.Array.ProcessArrayParametersCompile(bool)
+  fullName.vb: DrawingApplication.Array.ProcessArrayParametersCompile(Boolean)
+  nameWithType: Array.ProcessArrayParametersCompile(bool)
+  nameWithType.vb: Array.ProcessArrayParametersCompile(Boolean)
+- uid: DrawingApplication.Array.ProcessArrayParametersCompile*
+  name: ProcessArrayParametersCompile
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_ProcessArrayParametersCompile_
+  commentId: Overload:DrawingApplication.Array.ProcessArrayParametersCompile
+  isSpec: "True"
+  fullName: DrawingApplication.Array.ProcessArrayParametersCompile
+  nameWithType: Array.ProcessArrayParametersCompile
+- uid: DrawingApplication.Array.ProcessArrayParametersExecute(System.Boolean)
+  name: ProcessArrayParametersExecute(bool)
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_ProcessArrayParametersExecute_System_Boolean_
+  commentId: M:DrawingApplication.Array.ProcessArrayParametersExecute(System.Boolean)
+  name.vb: ProcessArrayParametersExecute(Boolean)
+  fullName: DrawingApplication.Array.ProcessArrayParametersExecute(bool)
+  fullName.vb: DrawingApplication.Array.ProcessArrayParametersExecute(Boolean)
+  nameWithType: Array.ProcessArrayParametersExecute(bool)
+  nameWithType.vb: Array.ProcessArrayParametersExecute(Boolean)
+- uid: DrawingApplication.Array.ProcessArrayParametersExecute*
+  name: ProcessArrayParametersExecute
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_ProcessArrayParametersExecute_
+  commentId: Overload:DrawingApplication.Array.ProcessArrayParametersExecute
+  isSpec: "True"
+  fullName: DrawingApplication.Array.ProcessArrayParametersExecute
+  nameWithType: Array.ProcessArrayParametersExecute
+- uid: DrawingApplication.Array.ReduceRestrictionCounter
+  name: ReduceRestrictionCounter()
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_ReduceRestrictionCounter
+  commentId: M:DrawingApplication.Array.ReduceRestrictionCounter
+  fullName: DrawingApplication.Array.ReduceRestrictionCounter()
+  nameWithType: Array.ReduceRestrictionCounter()
+- uid: DrawingApplication.Array.ReduceRestrictionCounter*
+  name: ReduceRestrictionCounter
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_ReduceRestrictionCounter_
+  commentId: Overload:DrawingApplication.Array.ReduceRestrictionCounter
+  isSpec: "True"
+  fullName: DrawingApplication.Array.ReduceRestrictionCounter
+  nameWithType: Array.ReduceRestrictionCounter
+- uid: DrawingApplication.Array.SetIntArray(System.Int32,System.Int32,System.Int32)
+  name: SetIntArray(int, int, int)
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_SetIntArray_System_Int32_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.Array.SetIntArray(System.Int32,System.Int32,System.Int32)
+  name.vb: SetIntArray(Integer, Integer, Integer)
+  fullName: DrawingApplication.Array.SetIntArray(int, int, int)
+  fullName.vb: DrawingApplication.Array.SetIntArray(Integer, Integer, Integer)
+  nameWithType: Array.SetIntArray(int, int, int)
+  nameWithType.vb: Array.SetIntArray(Integer, Integer, Integer)
+- uid: DrawingApplication.Array.SetIntArray*
+  name: SetIntArray
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_SetIntArray_
+  commentId: Overload:DrawingApplication.Array.SetIntArray
+  isSpec: "True"
+  fullName: DrawingApplication.Array.SetIntArray
+  nameWithType: Array.SetIntArray
+- uid: DrawingApplication.Array.SetRealArray(System.Double,System.Int32,System.Int32)
+  name: SetRealArray(double, int, int)
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_SetRealArray_System_Double_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.Array.SetRealArray(System.Double,System.Int32,System.Int32)
+  name.vb: SetRealArray(Double, Integer, Integer)
+  fullName: DrawingApplication.Array.SetRealArray(double, int, int)
+  fullName.vb: DrawingApplication.Array.SetRealArray(Double, Integer, Integer)
+  nameWithType: Array.SetRealArray(double, int, int)
+  nameWithType.vb: Array.SetRealArray(Double, Integer, Integer)
+- uid: DrawingApplication.Array.SetRealArray*
+  name: SetRealArray
+  href: docs/DrawingApplication.Array.html#DrawingApplication_Array_SetRealArray_
+  commentId: Overload:DrawingApplication.Array.SetRealArray
+  isSpec: "True"
+  fullName: DrawingApplication.Array.SetRealArray
+  nameWithType: Array.SetRealArray
+- uid: DrawingApplication.AsCanvas
+  name: AsCanvas
+  href: docs/DrawingApplication.AsCanvas.html
+  commentId: T:DrawingApplication.AsCanvas
+  fullName: DrawingApplication.AsCanvas
+  nameWithType: AsCanvas
+- uid: DrawingApplication.AsCanvas.#ctor
+  name: AsCanvas()
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas__ctor
+  commentId: M:DrawingApplication.AsCanvas.#ctor
+  name.vb: New()
+  fullName: DrawingApplication.AsCanvas.AsCanvas()
+  fullName.vb: DrawingApplication.AsCanvas.New()
   nameWithType: AsCanvas.AsCanvas()
   nameWithType.vb: AsCanvas.New()
-- uid: Session_1.AsCanvas.#ctor*
+- uid: DrawingApplication.AsCanvas.#ctor*
   name: AsCanvas
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas__ctor_
-  commentId: Overload:Session_1.AsCanvas.#ctor
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas__ctor_
+  commentId: Overload:DrawingApplication.AsCanvas.#ctor
   isSpec: "True"
   name.vb: New
-  fullName: Session_1.AsCanvas.AsCanvas
-  fullName.vb: Session_1.AsCanvas.New
+  fullName: DrawingApplication.AsCanvas.AsCanvas
+  fullName.vb: DrawingApplication.AsCanvas.New
   nameWithType: AsCanvas.AsCanvas
   nameWithType.vb: AsCanvas.New
-- uid: Session_1.AsCanvas.Circle(System.Int32,System.Boolean)
+- uid: DrawingApplication.AsCanvas.Circle(System.Int32,System.Boolean)
   name: Circle(int, bool)
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Circle_System_Int32_System_Boolean_
-  commentId: M:Session_1.AsCanvas.Circle(System.Int32,System.Boolean)
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:DrawingApplication.AsCanvas.Circle(System.Int32,System.Boolean)
   name.vb: Circle(Integer, Boolean)
-  fullName: Session_1.AsCanvas.Circle(int, bool)
-  fullName.vb: Session_1.AsCanvas.Circle(Integer, Boolean)
+  fullName: DrawingApplication.AsCanvas.Circle(int, bool)
+  fullName.vb: DrawingApplication.AsCanvas.Circle(Integer, Boolean)
   nameWithType: AsCanvas.Circle(int, bool)
   nameWithType.vb: AsCanvas.Circle(Integer, Boolean)
-- uid: Session_1.AsCanvas.Circle*
+- uid: DrawingApplication.AsCanvas.Circle*
   name: Circle
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Circle_
-  commentId: Overload:Session_1.AsCanvas.Circle
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Circle_
+  commentId: Overload:DrawingApplication.AsCanvas.Circle
   isSpec: "True"
-  fullName: Session_1.AsCanvas.Circle
+  fullName: DrawingApplication.AsCanvas.Circle
   nameWithType: AsCanvas.Circle
-- uid: Session_1.AsCanvas.Clear
+- uid: DrawingApplication.AsCanvas.Clear
   name: Clear()
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Clear
-  commentId: M:Session_1.AsCanvas.Clear
-  fullName: Session_1.AsCanvas.Clear()
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Clear
+  commentId: M:DrawingApplication.AsCanvas.Clear
+  fullName: DrawingApplication.AsCanvas.Clear()
   nameWithType: AsCanvas.Clear()
-- uid: Session_1.AsCanvas.Clear*
+- uid: DrawingApplication.AsCanvas.Clear*
   name: Clear
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Clear_
-  commentId: Overload:Session_1.AsCanvas.Clear
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Clear_
+  commentId: Overload:DrawingApplication.AsCanvas.Clear
   isSpec: "True"
-  fullName: Session_1.AsCanvas.Clear
+  fullName: DrawingApplication.AsCanvas.Clear
   nameWithType: AsCanvas.Clear
-- uid: Session_1.AsCanvas.DrawTo(System.Int32,System.Int32)
+- uid: DrawingApplication.AsCanvas.DrawTo(System.Int32,System.Int32)
   name: DrawTo(int, int)
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_DrawTo_System_Int32_System_Int32_
-  commentId: M:Session_1.AsCanvas.DrawTo(System.Int32,System.Int32)
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.AsCanvas.DrawTo(System.Int32,System.Int32)
   name.vb: DrawTo(Integer, Integer)
-  fullName: Session_1.AsCanvas.DrawTo(int, int)
-  fullName.vb: Session_1.AsCanvas.DrawTo(Integer, Integer)
+  fullName: DrawingApplication.AsCanvas.DrawTo(int, int)
+  fullName.vb: DrawingApplication.AsCanvas.DrawTo(Integer, Integer)
   nameWithType: AsCanvas.DrawTo(int, int)
   nameWithType.vb: AsCanvas.DrawTo(Integer, Integer)
-- uid: Session_1.AsCanvas.DrawTo*
+- uid: DrawingApplication.AsCanvas.DrawTo*
   name: DrawTo
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_DrawTo_
-  commentId: Overload:Session_1.AsCanvas.DrawTo
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_DrawTo_
+  commentId: Overload:DrawingApplication.AsCanvas.DrawTo
   isSpec: "True"
-  fullName: Session_1.AsCanvas.DrawTo
+  fullName: DrawingApplication.AsCanvas.DrawTo
   nameWithType: AsCanvas.DrawTo
-- uid: Session_1.AsCanvas.MoveTo(System.Int32,System.Int32)
+- uid: DrawingApplication.AsCanvas.MoveTo(System.Int32,System.Int32)
   name: MoveTo(int, int)
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_MoveTo_System_Int32_System_Int32_
-  commentId: M:Session_1.AsCanvas.MoveTo(System.Int32,System.Int32)
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.AsCanvas.MoveTo(System.Int32,System.Int32)
   name.vb: MoveTo(Integer, Integer)
-  fullName: Session_1.AsCanvas.MoveTo(int, int)
-  fullName.vb: Session_1.AsCanvas.MoveTo(Integer, Integer)
+  fullName: DrawingApplication.AsCanvas.MoveTo(int, int)
+  fullName.vb: DrawingApplication.AsCanvas.MoveTo(Integer, Integer)
   nameWithType: AsCanvas.MoveTo(int, int)
   nameWithType.vb: AsCanvas.MoveTo(Integer, Integer)
-- uid: Session_1.AsCanvas.MoveTo*
+- uid: DrawingApplication.AsCanvas.MoveTo*
   name: MoveTo
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_MoveTo_
-  commentId: Overload:Session_1.AsCanvas.MoveTo
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_MoveTo_
+  commentId: Overload:DrawingApplication.AsCanvas.MoveTo
   isSpec: "True"
-  fullName: Session_1.AsCanvas.MoveTo
+  fullName: DrawingApplication.AsCanvas.MoveTo
   nameWithType: AsCanvas.MoveTo
-- uid: Session_1.AsCanvas.PenColour
+- uid: DrawingApplication.AsCanvas.PenColour
   name: PenColour
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_PenColour
-  commentId: P:Session_1.AsCanvas.PenColour
-  fullName: Session_1.AsCanvas.PenColour
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_PenColour
+  commentId: P:DrawingApplication.AsCanvas.PenColour
+  fullName: DrawingApplication.AsCanvas.PenColour
   nameWithType: AsCanvas.PenColour
-- uid: Session_1.AsCanvas.PenColour*
+- uid: DrawingApplication.AsCanvas.PenColour*
   name: PenColour
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_PenColour_
-  commentId: Overload:Session_1.AsCanvas.PenColour
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_PenColour_
+  commentId: Overload:DrawingApplication.AsCanvas.PenColour
   isSpec: "True"
-  fullName: Session_1.AsCanvas.PenColour
+  fullName: DrawingApplication.AsCanvas.PenColour
   nameWithType: AsCanvas.PenColour
-- uid: Session_1.AsCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+- uid: DrawingApplication.AsCanvas.Rect(System.Int32,System.Int32,System.Boolean)
   name: Rect(int, int, bool)
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Rect_System_Int32_System_Int32_System_Boolean_
-  commentId: M:Session_1.AsCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:DrawingApplication.AsCanvas.Rect(System.Int32,System.Int32,System.Boolean)
   name.vb: Rect(Integer, Integer, Boolean)
-  fullName: Session_1.AsCanvas.Rect(int, int, bool)
-  fullName.vb: Session_1.AsCanvas.Rect(Integer, Integer, Boolean)
+  fullName: DrawingApplication.AsCanvas.Rect(int, int, bool)
+  fullName.vb: DrawingApplication.AsCanvas.Rect(Integer, Integer, Boolean)
   nameWithType: AsCanvas.Rect(int, int, bool)
   nameWithType.vb: AsCanvas.Rect(Integer, Integer, Boolean)
-- uid: Session_1.AsCanvas.Rect*
+- uid: DrawingApplication.AsCanvas.Rect*
   name: Rect
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Rect_
-  commentId: Overload:Session_1.AsCanvas.Rect
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Rect_
+  commentId: Overload:DrawingApplication.AsCanvas.Rect
   isSpec: "True"
-  fullName: Session_1.AsCanvas.Rect
+  fullName: DrawingApplication.AsCanvas.Rect
   nameWithType: AsCanvas.Rect
-- uid: Session_1.AsCanvas.Reset
+- uid: DrawingApplication.AsCanvas.Reset
   name: Reset()
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Reset
-  commentId: M:Session_1.AsCanvas.Reset
-  fullName: Session_1.AsCanvas.Reset()
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Reset
+  commentId: M:DrawingApplication.AsCanvas.Reset
+  fullName: DrawingApplication.AsCanvas.Reset()
   nameWithType: AsCanvas.Reset()
-- uid: Session_1.AsCanvas.Reset*
+- uid: DrawingApplication.AsCanvas.Reset*
   name: Reset
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Reset_
-  commentId: Overload:Session_1.AsCanvas.Reset
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Reset_
+  commentId: Overload:DrawingApplication.AsCanvas.Reset
   isSpec: "True"
-  fullName: Session_1.AsCanvas.Reset
+  fullName: DrawingApplication.AsCanvas.Reset
   nameWithType: AsCanvas.Reset
-- uid: Session_1.AsCanvas.Set(System.Int32,System.Int32)
+- uid: DrawingApplication.AsCanvas.Set(System.Int32,System.Int32)
   name: Set(int, int)
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Set_System_Int32_System_Int32_
-  commentId: M:Session_1.AsCanvas.Set(System.Int32,System.Int32)
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Set_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.AsCanvas.Set(System.Int32,System.Int32)
   name.vb: Set(Integer, Integer)
-  fullName: Session_1.AsCanvas.Set(int, int)
-  fullName.vb: Session_1.AsCanvas.Set(Integer, Integer)
+  fullName: DrawingApplication.AsCanvas.Set(int, int)
+  fullName.vb: DrawingApplication.AsCanvas.Set(Integer, Integer)
   nameWithType: AsCanvas.Set(int, int)
   nameWithType.vb: AsCanvas.Set(Integer, Integer)
-- uid: Session_1.AsCanvas.Set*
+- uid: DrawingApplication.AsCanvas.Set*
   name: Set
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Set_
-  commentId: Overload:Session_1.AsCanvas.Set
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Set_
+  commentId: Overload:DrawingApplication.AsCanvas.Set
   isSpec: "True"
-  fullName: Session_1.AsCanvas.Set
+  fullName: DrawingApplication.AsCanvas.Set
   nameWithType: AsCanvas.Set
-- uid: Session_1.AsCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+- uid: DrawingApplication.AsCanvas.SetColour(System.Int32,System.Int32,System.Int32)
   name: SetColour(int, int, int)
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_SetColour_System_Int32_System_Int32_System_Int32_
-  commentId: M:Session_1.AsCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.AsCanvas.SetColour(System.Int32,System.Int32,System.Int32)
   name.vb: SetColour(Integer, Integer, Integer)
-  fullName: Session_1.AsCanvas.SetColour(int, int, int)
-  fullName.vb: Session_1.AsCanvas.SetColour(Integer, Integer, Integer)
+  fullName: DrawingApplication.AsCanvas.SetColour(int, int, int)
+  fullName.vb: DrawingApplication.AsCanvas.SetColour(Integer, Integer, Integer)
   nameWithType: AsCanvas.SetColour(int, int, int)
   nameWithType.vb: AsCanvas.SetColour(Integer, Integer, Integer)
-- uid: Session_1.AsCanvas.SetColour*
+- uid: DrawingApplication.AsCanvas.SetColour*
   name: SetColour
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_SetColour_
-  commentId: Overload:Session_1.AsCanvas.SetColour
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_SetColour_
+  commentId: Overload:DrawingApplication.AsCanvas.SetColour
   isSpec: "True"
-  fullName: Session_1.AsCanvas.SetColour
+  fullName: DrawingApplication.AsCanvas.SetColour
   nameWithType: AsCanvas.SetColour
-- uid: Session_1.AsCanvas.Tri(System.Int32,System.Int32)
+- uid: DrawingApplication.AsCanvas.Tri(System.Int32,System.Int32)
   name: Tri(int, int)
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Tri_System_Int32_System_Int32_
-  commentId: M:Session_1.AsCanvas.Tri(System.Int32,System.Int32)
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.AsCanvas.Tri(System.Int32,System.Int32)
   name.vb: Tri(Integer, Integer)
-  fullName: Session_1.AsCanvas.Tri(int, int)
-  fullName.vb: Session_1.AsCanvas.Tri(Integer, Integer)
+  fullName: DrawingApplication.AsCanvas.Tri(int, int)
+  fullName.vb: DrawingApplication.AsCanvas.Tri(Integer, Integer)
   nameWithType: AsCanvas.Tri(int, int)
   nameWithType.vb: AsCanvas.Tri(Integer, Integer)
-- uid: Session_1.AsCanvas.Tri*
+- uid: DrawingApplication.AsCanvas.Tri*
   name: Tri
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Tri_
-  commentId: Overload:Session_1.AsCanvas.Tri
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Tri_
+  commentId: Overload:DrawingApplication.AsCanvas.Tri
   isSpec: "True"
-  fullName: Session_1.AsCanvas.Tri
+  fullName: DrawingApplication.AsCanvas.Tri
   nameWithType: AsCanvas.Tri
-- uid: Session_1.AsCanvas.WriteText(System.String)
+- uid: DrawingApplication.AsCanvas.WriteText(System.String)
   name: WriteText(string)
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_WriteText_System_String_
-  commentId: M:Session_1.AsCanvas.WriteText(System.String)
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_WriteText_System_String_
+  commentId: M:DrawingApplication.AsCanvas.WriteText(System.String)
   name.vb: WriteText(String)
-  fullName: Session_1.AsCanvas.WriteText(string)
-  fullName.vb: Session_1.AsCanvas.WriteText(String)
+  fullName: DrawingApplication.AsCanvas.WriteText(string)
+  fullName.vb: DrawingApplication.AsCanvas.WriteText(String)
   nameWithType: AsCanvas.WriteText(string)
   nameWithType.vb: AsCanvas.WriteText(String)
-- uid: Session_1.AsCanvas.WriteText*
+- uid: DrawingApplication.AsCanvas.WriteText*
   name: WriteText
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_WriteText_
-  commentId: Overload:Session_1.AsCanvas.WriteText
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_WriteText_
+  commentId: Overload:DrawingApplication.AsCanvas.WriteText
   isSpec: "True"
-  fullName: Session_1.AsCanvas.WriteText
+  fullName: DrawingApplication.AsCanvas.WriteText
   nameWithType: AsCanvas.WriteText
-- uid: Session_1.AsCanvas.Xpos
+- uid: DrawingApplication.AsCanvas.Xpos
   name: Xpos
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Xpos
-  commentId: P:Session_1.AsCanvas.Xpos
-  fullName: Session_1.AsCanvas.Xpos
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Xpos
+  commentId: P:DrawingApplication.AsCanvas.Xpos
+  fullName: DrawingApplication.AsCanvas.Xpos
   nameWithType: AsCanvas.Xpos
-- uid: Session_1.AsCanvas.Xpos*
+- uid: DrawingApplication.AsCanvas.Xpos*
   name: Xpos
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Xpos_
-  commentId: Overload:Session_1.AsCanvas.Xpos
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Xpos_
+  commentId: Overload:DrawingApplication.AsCanvas.Xpos
   isSpec: "True"
-  fullName: Session_1.AsCanvas.Xpos
+  fullName: DrawingApplication.AsCanvas.Xpos
   nameWithType: AsCanvas.Xpos
-- uid: Session_1.AsCanvas.Ypos
+- uid: DrawingApplication.AsCanvas.Ypos
   name: Ypos
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Ypos
-  commentId: P:Session_1.AsCanvas.Ypos
-  fullName: Session_1.AsCanvas.Ypos
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Ypos
+  commentId: P:DrawingApplication.AsCanvas.Ypos
+  fullName: DrawingApplication.AsCanvas.Ypos
   nameWithType: AsCanvas.Ypos
-- uid: Session_1.AsCanvas.Ypos*
+- uid: DrawingApplication.AsCanvas.Ypos*
   name: Ypos
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_Ypos_
-  commentId: Overload:Session_1.AsCanvas.Ypos
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_Ypos_
+  commentId: Overload:DrawingApplication.AsCanvas.Ypos
   isSpec: "True"
-  fullName: Session_1.AsCanvas.Ypos
+  fullName: DrawingApplication.AsCanvas.Ypos
   nameWithType: AsCanvas.Ypos
-- uid: Session_1.AsCanvas.getBitmap
+- uid: DrawingApplication.AsCanvas.getBitmap
   name: getBitmap()
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_getBitmap
-  commentId: M:Session_1.AsCanvas.getBitmap
-  fullName: Session_1.AsCanvas.getBitmap()
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_getBitmap
+  commentId: M:DrawingApplication.AsCanvas.getBitmap
+  fullName: DrawingApplication.AsCanvas.getBitmap()
   nameWithType: AsCanvas.getBitmap()
-- uid: Session_1.AsCanvas.getBitmap*
+- uid: DrawingApplication.AsCanvas.getBitmap*
   name: getBitmap
-  href: boose/Session_1.AsCanvas.html#Session_1_AsCanvas_getBitmap_
-  commentId: Overload:Session_1.AsCanvas.getBitmap
+  href: docs/DrawingApplication.AsCanvas.html#DrawingApplication_AsCanvas_getBitmap_
+  commentId: Overload:DrawingApplication.AsCanvas.getBitmap
   isSpec: "True"
-  fullName: Session_1.AsCanvas.getBitmap
+  fullName: DrawingApplication.AsCanvas.getBitmap
   nameWithType: AsCanvas.getBitmap
-- uid: Session_1.AsCommandFactory
+- uid: DrawingApplication.AsCommandFactory
   name: AsCommandFactory
-  href: boose/Session_1.AsCommandFactory.html
-  commentId: T:Session_1.AsCommandFactory
-  fullName: Session_1.AsCommandFactory
+  href: docs/DrawingApplication.AsCommandFactory.html
+  commentId: T:DrawingApplication.AsCommandFactory
+  fullName: DrawingApplication.AsCommandFactory
   nameWithType: AsCommandFactory
-- uid: Session_1.AsCommandFactory.MakeCommand(System.String)
+- uid: DrawingApplication.AsCommandFactory.MakeCommand(System.String)
   name: MakeCommand(string)
-  href: boose/Session_1.AsCommandFactory.html#Session_1_AsCommandFactory_MakeCommand_System_String_
-  commentId: M:Session_1.AsCommandFactory.MakeCommand(System.String)
+  href: docs/DrawingApplication.AsCommandFactory.html#DrawingApplication_AsCommandFactory_MakeCommand_System_String_
+  commentId: M:DrawingApplication.AsCommandFactory.MakeCommand(System.String)
   name.vb: MakeCommand(String)
-  fullName: Session_1.AsCommandFactory.MakeCommand(string)
-  fullName.vb: Session_1.AsCommandFactory.MakeCommand(String)
+  fullName: DrawingApplication.AsCommandFactory.MakeCommand(string)
+  fullName.vb: DrawingApplication.AsCommandFactory.MakeCommand(String)
   nameWithType: AsCommandFactory.MakeCommand(string)
   nameWithType.vb: AsCommandFactory.MakeCommand(String)
-- uid: Session_1.AsCommandFactory.MakeCommand*
+- uid: DrawingApplication.AsCommandFactory.MakeCommand*
   name: MakeCommand
-  href: boose/Session_1.AsCommandFactory.html#Session_1_AsCommandFactory_MakeCommand_
-  commentId: Overload:Session_1.AsCommandFactory.MakeCommand
+  href: docs/DrawingApplication.AsCommandFactory.html#DrawingApplication_AsCommandFactory_MakeCommand_
+  commentId: Overload:DrawingApplication.AsCommandFactory.MakeCommand
   isSpec: "True"
-  fullName: Session_1.AsCommandFactory.MakeCommand
+  fullName: DrawingApplication.AsCommandFactory.MakeCommand
   nameWithType: AsCommandFactory.MakeCommand
-- uid: Session_1.Clear
-  name: Clear
-  href: boose/Session_1.Clear.html
-  commentId: T:Session_1.Clear
-  fullName: Session_1.Clear
-  nameWithType: Clear
-- uid: Session_1.Clear.#ctor
-  name: Clear()
-  href: boose/Session_1.Clear.html#Session_1_Clear__ctor
-  commentId: M:Session_1.Clear.#ctor
+- uid: DrawingApplication.AsParser
+  name: AsParser
+  href: docs/DrawingApplication.AsParser.html
+  commentId: T:DrawingApplication.AsParser
+  fullName: DrawingApplication.AsParser
+  nameWithType: AsParser
+- uid: DrawingApplication.AsParser.#ctor(BOOSE.CommandFactory,BOOSE.StoredProgram)
+  name: AsParser(CommandFactory, StoredProgram)
+  href: docs/DrawingApplication.AsParser.html#DrawingApplication_AsParser__ctor_BOOSE_CommandFactory_BOOSE_StoredProgram_
+  commentId: M:DrawingApplication.AsParser.#ctor(BOOSE.CommandFactory,BOOSE.StoredProgram)
+  name.vb: New(CommandFactory, StoredProgram)
+  fullName: DrawingApplication.AsParser.AsParser(BOOSE.CommandFactory, BOOSE.StoredProgram)
+  fullName.vb: DrawingApplication.AsParser.New(BOOSE.CommandFactory, BOOSE.StoredProgram)
+  nameWithType: AsParser.AsParser(CommandFactory, StoredProgram)
+  nameWithType.vb: AsParser.New(CommandFactory, StoredProgram)
+- uid: DrawingApplication.AsParser.#ctor*
+  name: AsParser
+  href: docs/DrawingApplication.AsParser.html#DrawingApplication_AsParser__ctor_
+  commentId: Overload:DrawingApplication.AsParser.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.AsParser.AsParser
+  fullName.vb: DrawingApplication.AsParser.New
+  nameWithType: AsParser.AsParser
+  nameWithType.vb: AsParser.New
+- uid: DrawingApplication.AsParser.ParseCommand(System.String)
+  name: ParseCommand(string)
+  href: docs/DrawingApplication.AsParser.html#DrawingApplication_AsParser_ParseCommand_System_String_
+  commentId: M:DrawingApplication.AsParser.ParseCommand(System.String)
+  name.vb: ParseCommand(String)
+  fullName: DrawingApplication.AsParser.ParseCommand(string)
+  fullName.vb: DrawingApplication.AsParser.ParseCommand(String)
+  nameWithType: AsParser.ParseCommand(string)
+  nameWithType.vb: AsParser.ParseCommand(String)
+- uid: DrawingApplication.AsParser.ParseCommand*
+  name: ParseCommand
+  href: docs/DrawingApplication.AsParser.html#DrawingApplication_AsParser_ParseCommand_
+  commentId: Overload:DrawingApplication.AsParser.ParseCommand
+  isSpec: "True"
+  fullName: DrawingApplication.AsParser.ParseCommand
+  nameWithType: AsParser.ParseCommand
+- uid: DrawingApplication.AsParser.ParseProgram(System.String)
+  name: ParseProgram(string)
+  href: docs/DrawingApplication.AsParser.html#DrawingApplication_AsParser_ParseProgram_System_String_
+  commentId: M:DrawingApplication.AsParser.ParseProgram(System.String)
+  name.vb: ParseProgram(String)
+  fullName: DrawingApplication.AsParser.ParseProgram(string)
+  fullName.vb: DrawingApplication.AsParser.ParseProgram(String)
+  nameWithType: AsParser.ParseProgram(string)
+  nameWithType.vb: AsParser.ParseProgram(String)
+- uid: DrawingApplication.AsParser.ParseProgram*
+  name: ParseProgram
+  href: docs/DrawingApplication.AsParser.html#DrawingApplication_AsParser_ParseProgram_
+  commentId: Overload:DrawingApplication.AsParser.ParseProgram
+  isSpec: "True"
+  fullName: DrawingApplication.AsParser.ParseProgram
+  nameWithType: AsParser.ParseProgram
+- uid: DrawingApplication.AsStoredProgram
+  name: AsStoredProgram
+  href: docs/DrawingApplication.AsStoredProgram.html
+  commentId: T:DrawingApplication.AsStoredProgram
+  fullName: DrawingApplication.AsStoredProgram
+  nameWithType: AsStoredProgram
+- uid: DrawingApplication.AsStoredProgram.#ctor(BOOSE.ICanvas)
+  name: AsStoredProgram(ICanvas)
+  href: docs/DrawingApplication.AsStoredProgram.html#DrawingApplication_AsStoredProgram__ctor_BOOSE_ICanvas_
+  commentId: M:DrawingApplication.AsStoredProgram.#ctor(BOOSE.ICanvas)
+  name.vb: New(ICanvas)
+  fullName: DrawingApplication.AsStoredProgram.AsStoredProgram(BOOSE.ICanvas)
+  fullName.vb: DrawingApplication.AsStoredProgram.New(BOOSE.ICanvas)
+  nameWithType: AsStoredProgram.AsStoredProgram(ICanvas)
+  nameWithType.vb: AsStoredProgram.New(ICanvas)
+- uid: DrawingApplication.AsStoredProgram.#ctor*
+  name: AsStoredProgram
+  href: docs/DrawingApplication.AsStoredProgram.html#DrawingApplication_AsStoredProgram__ctor_
+  commentId: Overload:DrawingApplication.AsStoredProgram.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.AsStoredProgram.AsStoredProgram
+  fullName.vb: DrawingApplication.AsStoredProgram.New
+  nameWithType: AsStoredProgram.AsStoredProgram
+  nameWithType.vb: AsStoredProgram.New
+- uid: DrawingApplication.AsStoredProgram.Run
+  name: Run()
+  href: docs/DrawingApplication.AsStoredProgram.html#DrawingApplication_AsStoredProgram_Run
+  commentId: M:DrawingApplication.AsStoredProgram.Run
+  fullName: DrawingApplication.AsStoredProgram.Run()
+  nameWithType: AsStoredProgram.Run()
+- uid: DrawingApplication.AsStoredProgram.Run*
+  name: Run
+  href: docs/DrawingApplication.AsStoredProgram.html#DrawingApplication_AsStoredProgram_Run_
+  commentId: Overload:DrawingApplication.AsStoredProgram.Run
+  isSpec: "True"
+  fullName: DrawingApplication.AsStoredProgram.Run
+  nameWithType: AsStoredProgram.Run
+- uid: DrawingApplication.Boolean
+  name: Boolean
+  href: docs/DrawingApplication.Boolean.html
+  commentId: T:DrawingApplication.Boolean
+  fullName: DrawingApplication.Boolean
+  nameWithType: Boolean
+- uid: DrawingApplication.Boolean.#ctor
+  name: Boolean()
+  href: docs/DrawingApplication.Boolean.html#DrawingApplication_Boolean__ctor
+  commentId: M:DrawingApplication.Boolean.#ctor
   name.vb: New()
-  fullName: Session_1.Clear.Clear()
-  fullName.vb: Session_1.Clear.New()
+  fullName: DrawingApplication.Boolean.Boolean()
+  fullName.vb: DrawingApplication.Boolean.New()
+  nameWithType: Boolean.Boolean()
+  nameWithType.vb: Boolean.New()
+- uid: DrawingApplication.Boolean.#ctor*
+  name: Boolean
+  href: docs/DrawingApplication.Boolean.html#DrawingApplication_Boolean__ctor_
+  commentId: Overload:DrawingApplication.Boolean.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.Boolean.Boolean
+  fullName.vb: DrawingApplication.Boolean.New
+  nameWithType: Boolean.Boolean
+  nameWithType.vb: Boolean.New
+- uid: DrawingApplication.Boolean.Restrictions
+  name: Restrictions()
+  href: docs/DrawingApplication.Boolean.html#DrawingApplication_Boolean_Restrictions
+  commentId: M:DrawingApplication.Boolean.Restrictions
+  fullName: DrawingApplication.Boolean.Restrictions()
+  nameWithType: Boolean.Restrictions()
+- uid: DrawingApplication.Boolean.Restrictions*
+  name: Restrictions
+  href: docs/DrawingApplication.Boolean.html#DrawingApplication_Boolean_Restrictions_
+  commentId: Overload:DrawingApplication.Boolean.Restrictions
+  isSpec: "True"
+  fullName: DrawingApplication.Boolean.Restrictions
+  nameWithType: Boolean.Restrictions
+- uid: DrawingApplication.Clear
+  name: Clear
+  href: docs/DrawingApplication.Clear.html
+  commentId: T:DrawingApplication.Clear
+  fullName: DrawingApplication.Clear
+  nameWithType: Clear
+- uid: DrawingApplication.Clear.#ctor
+  name: Clear()
+  href: docs/DrawingApplication.Clear.html#DrawingApplication_Clear__ctor
+  commentId: M:DrawingApplication.Clear.#ctor
+  name.vb: New()
+  fullName: DrawingApplication.Clear.Clear()
+  fullName.vb: DrawingApplication.Clear.New()
   nameWithType: Clear.Clear()
   nameWithType.vb: Clear.New()
-- uid: Session_1.Clear.#ctor(BOOSE.Canvas)
+- uid: DrawingApplication.Clear.#ctor(BOOSE.Canvas)
   name: Clear(Canvas)
-  href: boose/Session_1.Clear.html#Session_1_Clear__ctor_BOOSE_Canvas_
-  commentId: M:Session_1.Clear.#ctor(BOOSE.Canvas)
+  href: docs/DrawingApplication.Clear.html#DrawingApplication_Clear__ctor_BOOSE_Canvas_
+  commentId: M:DrawingApplication.Clear.#ctor(BOOSE.Canvas)
   name.vb: New(Canvas)
-  fullName: Session_1.Clear.Clear(BOOSE.Canvas)
-  fullName.vb: Session_1.Clear.New(BOOSE.Canvas)
+  fullName: DrawingApplication.Clear.Clear(BOOSE.Canvas)
+  fullName.vb: DrawingApplication.Clear.New(BOOSE.Canvas)
   nameWithType: Clear.Clear(Canvas)
   nameWithType.vb: Clear.New(Canvas)
-- uid: Session_1.Clear.#ctor*
+- uid: DrawingApplication.Clear.#ctor*
   name: Clear
-  href: boose/Session_1.Clear.html#Session_1_Clear__ctor_
-  commentId: Overload:Session_1.Clear.#ctor
+  href: docs/DrawingApplication.Clear.html#DrawingApplication_Clear__ctor_
+  commentId: Overload:DrawingApplication.Clear.#ctor
   isSpec: "True"
   name.vb: New
-  fullName: Session_1.Clear.Clear
-  fullName.vb: Session_1.Clear.New
+  fullName: DrawingApplication.Clear.Clear
+  fullName.vb: DrawingApplication.Clear.New
   nameWithType: Clear.Clear
   nameWithType.vb: Clear.New
-- uid: Session_1.Clear.Execute
+- uid: DrawingApplication.Clear.Execute
   name: Execute()
-  href: boose/Session_1.Clear.html#Session_1_Clear_Execute
-  commentId: M:Session_1.Clear.Execute
-  fullName: Session_1.Clear.Execute()
+  href: docs/DrawingApplication.Clear.html#DrawingApplication_Clear_Execute
+  commentId: M:DrawingApplication.Clear.Execute
+  fullName: DrawingApplication.Clear.Execute()
   nameWithType: Clear.Execute()
-- uid: Session_1.Clear.Execute*
+- uid: DrawingApplication.Clear.Execute*
   name: Execute
-  href: boose/Session_1.Clear.html#Session_1_Clear_Execute_
-  commentId: Overload:Session_1.Clear.Execute
+  href: docs/DrawingApplication.Clear.html#DrawingApplication_Clear_Execute_
+  commentId: Overload:DrawingApplication.Clear.Execute
   isSpec: "True"
-  fullName: Session_1.Clear.Execute
+  fullName: DrawingApplication.Clear.Execute
   nameWithType: Clear.Execute
-- uid: Session_1.Form1
-  name: Form1
-  href: boose/Session_1.Form1.html
-  commentId: T:Session_1.Form1
-  fullName: Session_1.Form1
-  nameWithType: Form1
-- uid: Session_1.Form1.#ctor
-  name: Form1()
-  href: boose/Session_1.Form1.html#Session_1_Form1__ctor
-  commentId: M:Session_1.Form1.#ctor
+- uid: DrawingApplication.CompoundCommand
+  name: CompoundCommand
+  href: docs/DrawingApplication.CompoundCommand.html
+  commentId: T:DrawingApplication.CompoundCommand
+  fullName: DrawingApplication.CompoundCommand
+  nameWithType: CompoundCommand
+- uid: DrawingApplication.CompoundCommand.#ctor
+  name: CompoundCommand()
+  href: docs/DrawingApplication.CompoundCommand.html#DrawingApplication_CompoundCommand__ctor
+  commentId: M:DrawingApplication.CompoundCommand.#ctor
   name.vb: New()
-  fullName: Session_1.Form1.Form1()
-  fullName.vb: Session_1.Form1.New()
-  nameWithType: Form1.Form1()
-  nameWithType.vb: Form1.New()
-- uid: Session_1.Form1.#ctor*
-  name: Form1
-  href: boose/Session_1.Form1.html#Session_1_Form1__ctor_
-  commentId: Overload:Session_1.Form1.#ctor
+  fullName: DrawingApplication.CompoundCommand.CompoundCommand()
+  fullName.vb: DrawingApplication.CompoundCommand.New()
+  nameWithType: CompoundCommand.CompoundCommand()
+  nameWithType.vb: CompoundCommand.New()
+- uid: DrawingApplication.CompoundCommand.#ctor*
+  name: CompoundCommand
+  href: docs/DrawingApplication.CompoundCommand.html#DrawingApplication_CompoundCommand__ctor_
+  commentId: Overload:DrawingApplication.CompoundCommand.#ctor
   isSpec: "True"
   name.vb: New
-  fullName: Session_1.Form1.Form1
-  fullName.vb: Session_1.Form1.New
-  nameWithType: Form1.Form1
-  nameWithType.vb: Form1.New
-- uid: Session_1.Form1.Dispose(System.Boolean)
-  name: Dispose(bool)
-  href: boose/Session_1.Form1.html#Session_1_Form1_Dispose_System_Boolean_
-  commentId: M:Session_1.Form1.Dispose(System.Boolean)
-  name.vb: Dispose(Boolean)
-  fullName: Session_1.Form1.Dispose(bool)
-  fullName.vb: Session_1.Form1.Dispose(Boolean)
-  nameWithType: Form1.Dispose(bool)
-  nameWithType.vb: Form1.Dispose(Boolean)
-- uid: Session_1.Form1.Dispose*
-  name: Dispose
-  href: boose/Session_1.Form1.html#Session_1_Form1_Dispose_
-  commentId: Overload:Session_1.Form1.Dispose
+  fullName: DrawingApplication.CompoundCommand.CompoundCommand
+  fullName.vb: DrawingApplication.CompoundCommand.New
+  nameWithType: CompoundCommand.CompoundCommand
+  nameWithType.vb: CompoundCommand.New
+- uid: DrawingApplication.CompoundCommand.Compile
+  name: Compile()
+  href: docs/DrawingApplication.CompoundCommand.html#DrawingApplication_CompoundCommand_Compile
+  commentId: M:DrawingApplication.CompoundCommand.Compile
+  fullName: DrawingApplication.CompoundCommand.Compile()
+  nameWithType: CompoundCommand.Compile()
+- uid: DrawingApplication.CompoundCommand.Compile*
+  name: Compile
+  href: docs/DrawingApplication.CompoundCommand.html#DrawingApplication_CompoundCommand_Compile_
+  commentId: Overload:DrawingApplication.CompoundCommand.Compile
   isSpec: "True"
-  fullName: Session_1.Form1.Dispose
-  nameWithType: Form1.Dispose
-- uid: Session_1.Rect
-  name: Rect
-  href: boose/Session_1.Rect.html
-  commentId: T:Session_1.Rect
-  fullName: Session_1.Rect
-  nameWithType: Rect
-- uid: Session_1.Rect.#ctor
-  name: Rect()
-  href: boose/Session_1.Rect.html#Session_1_Rect__ctor
-  commentId: M:Session_1.Rect.#ctor
+  fullName: DrawingApplication.CompoundCommand.Compile
+  nameWithType: CompoundCommand.Compile
+- uid: DrawingApplication.CompoundCommand.CorrespondingCommand
+  name: CorrespondingCommand
+  href: docs/DrawingApplication.CompoundCommand.html#DrawingApplication_CompoundCommand_CorrespondingCommand
+  commentId: P:DrawingApplication.CompoundCommand.CorrespondingCommand
+  fullName: DrawingApplication.CompoundCommand.CorrespondingCommand
+  nameWithType: CompoundCommand.CorrespondingCommand
+- uid: DrawingApplication.CompoundCommand.CorrespondingCommand*
+  name: CorrespondingCommand
+  href: docs/DrawingApplication.CompoundCommand.html#DrawingApplication_CompoundCommand_CorrespondingCommand_
+  commentId: Overload:DrawingApplication.CompoundCommand.CorrespondingCommand
+  isSpec: "True"
+  fullName: DrawingApplication.CompoundCommand.CorrespondingCommand
+  nameWithType: CompoundCommand.CorrespondingCommand
+- uid: DrawingApplication.CompoundCommand.ReduceRestrictions
+  name: ReduceRestrictions()
+  href: docs/DrawingApplication.CompoundCommand.html#DrawingApplication_CompoundCommand_ReduceRestrictions
+  commentId: M:DrawingApplication.CompoundCommand.ReduceRestrictions
+  fullName: DrawingApplication.CompoundCommand.ReduceRestrictions()
+  nameWithType: CompoundCommand.ReduceRestrictions()
+- uid: DrawingApplication.CompoundCommand.ReduceRestrictions*
+  name: ReduceRestrictions
+  href: docs/DrawingApplication.CompoundCommand.html#DrawingApplication_CompoundCommand_ReduceRestrictions_
+  commentId: Overload:DrawingApplication.CompoundCommand.ReduceRestrictions
+  isSpec: "True"
+  fullName: DrawingApplication.CompoundCommand.ReduceRestrictions
+  nameWithType: CompoundCommand.ReduceRestrictions
+- uid: DrawingApplication.Else
+  name: Else
+  href: docs/DrawingApplication.Else.html
+  commentId: T:DrawingApplication.Else
+  fullName: DrawingApplication.Else
+  nameWithType: Else
+- uid: DrawingApplication.Else.#ctor
+  name: Else()
+  href: docs/DrawingApplication.Else.html#DrawingApplication_Else__ctor
+  commentId: M:DrawingApplication.Else.#ctor
   name.vb: New()
-  fullName: Session_1.Rect.Rect()
-  fullName.vb: Session_1.Rect.New()
+  fullName: DrawingApplication.Else.Else()
+  fullName.vb: DrawingApplication.Else.New()
+  nameWithType: Else.Else()
+  nameWithType.vb: Else.New()
+- uid: DrawingApplication.Else.#ctor*
+  name: Else
+  href: docs/DrawingApplication.Else.html#DrawingApplication_Else__ctor_
+  commentId: Overload:DrawingApplication.Else.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.Else.Else
+  fullName.vb: DrawingApplication.Else.New
+  nameWithType: Else.Else
+  nameWithType.vb: Else.New
+- uid: DrawingApplication.Else.Compile
+  name: Compile()
+  href: docs/DrawingApplication.Else.html#DrawingApplication_Else_Compile
+  commentId: M:DrawingApplication.Else.Compile
+  fullName: DrawingApplication.Else.Compile()
+  nameWithType: Else.Compile()
+- uid: DrawingApplication.Else.Compile*
+  name: Compile
+  href: docs/DrawingApplication.Else.html#DrawingApplication_Else_Compile_
+  commentId: Overload:DrawingApplication.Else.Compile
+  isSpec: "True"
+  fullName: DrawingApplication.Else.Compile
+  nameWithType: Else.Compile
+- uid: DrawingApplication.Else.CorrespondingEnd
+  name: CorrespondingEnd
+  href: docs/DrawingApplication.Else.html#DrawingApplication_Else_CorrespondingEnd
+  commentId: P:DrawingApplication.Else.CorrespondingEnd
+  fullName: DrawingApplication.Else.CorrespondingEnd
+  nameWithType: Else.CorrespondingEnd
+- uid: DrawingApplication.Else.CorrespondingEnd*
+  name: CorrespondingEnd
+  href: docs/DrawingApplication.Else.html#DrawingApplication_Else_CorrespondingEnd_
+  commentId: Overload:DrawingApplication.Else.CorrespondingEnd
+  isSpec: "True"
+  fullName: DrawingApplication.Else.CorrespondingEnd
+  nameWithType: Else.CorrespondingEnd
+- uid: DrawingApplication.Else.Execute
+  name: Execute()
+  href: docs/DrawingApplication.Else.html#DrawingApplication_Else_Execute
+  commentId: M:DrawingApplication.Else.Execute
+  fullName: DrawingApplication.Else.Execute()
+  nameWithType: Else.Execute()
+- uid: DrawingApplication.Else.Execute*
+  name: Execute
+  href: docs/DrawingApplication.Else.html#DrawingApplication_Else_Execute_
+  commentId: Overload:DrawingApplication.Else.Execute
+  isSpec: "True"
+  fullName: DrawingApplication.Else.Execute
+  nameWithType: Else.Execute
+- uid: DrawingApplication.End
+  name: End
+  href: docs/DrawingApplication.End.html
+  commentId: T:DrawingApplication.End
+  fullName: DrawingApplication.End
+  nameWithType: End
+- uid: DrawingApplication.End.Compile
+  name: Compile()
+  href: docs/DrawingApplication.End.html#DrawingApplication_End_Compile
+  commentId: M:DrawingApplication.End.Compile
+  fullName: DrawingApplication.End.Compile()
+  nameWithType: End.Compile()
+- uid: DrawingApplication.End.Compile*
+  name: Compile
+  href: docs/DrawingApplication.End.html#DrawingApplication_End_Compile_
+  commentId: Overload:DrawingApplication.End.Compile
+  isSpec: "True"
+  fullName: DrawingApplication.End.Compile
+  nameWithType: End.Compile
+- uid: DrawingApplication.End.Execute
+  name: Execute()
+  href: docs/DrawingApplication.End.html#DrawingApplication_End_Execute
+  commentId: M:DrawingApplication.End.Execute
+  fullName: DrawingApplication.End.Execute()
+  nameWithType: End.Execute()
+- uid: DrawingApplication.End.Execute*
+  name: Execute
+  href: docs/DrawingApplication.End.html#DrawingApplication_End_Execute_
+  commentId: Overload:DrawingApplication.End.Execute
+  isSpec: "True"
+  fullName: DrawingApplication.End.Execute
+  nameWithType: End.Execute
+- uid: DrawingApplication.For
+  name: For
+  href: docs/DrawingApplication.For.html
+  commentId: T:DrawingApplication.For
+  fullName: DrawingApplication.For
+  nameWithType: For
+- uid: DrawingApplication.For.Compile
+  name: Compile()
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_Compile
+  commentId: M:DrawingApplication.For.Compile
+  fullName: DrawingApplication.For.Compile()
+  nameWithType: For.Compile()
+- uid: DrawingApplication.For.Compile*
+  name: Compile
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_Compile_
+  commentId: Overload:DrawingApplication.For.Compile
+  isSpec: "True"
+  fullName: DrawingApplication.For.Compile
+  nameWithType: For.Compile
+- uid: DrawingApplication.For.Execute
+  name: Execute()
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_Execute
+  commentId: M:DrawingApplication.For.Execute
+  fullName: DrawingApplication.For.Execute()
+  nameWithType: For.Execute()
+- uid: DrawingApplication.For.Execute*
+  name: Execute
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_Execute_
+  commentId: Overload:DrawingApplication.For.Execute
+  isSpec: "True"
+  fullName: DrawingApplication.For.Execute
+  nameWithType: For.Execute
+- uid: DrawingApplication.For.From
+  name: From
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_From
+  commentId: P:DrawingApplication.For.From
+  fullName: DrawingApplication.For.From
+  nameWithType: For.From
+- uid: DrawingApplication.For.From*
+  name: From
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_From_
+  commentId: Overload:DrawingApplication.For.From
+  isSpec: "True"
+  fullName: DrawingApplication.For.From
+  nameWithType: For.From
+- uid: DrawingApplication.For.LoopControlV
+  name: LoopControlV
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_LoopControlV
+  commentId: P:DrawingApplication.For.LoopControlV
+  fullName: DrawingApplication.For.LoopControlV
+  nameWithType: For.LoopControlV
+- uid: DrawingApplication.For.LoopControlV*
+  name: LoopControlV
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_LoopControlV_
+  commentId: Overload:DrawingApplication.For.LoopControlV
+  isSpec: "True"
+  fullName: DrawingApplication.For.LoopControlV
+  nameWithType: For.LoopControlV
+- uid: DrawingApplication.For.Step
+  name: Step
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_Step
+  commentId: P:DrawingApplication.For.Step
+  fullName: DrawingApplication.For.Step
+  nameWithType: For.Step
+- uid: DrawingApplication.For.Step*
+  name: Step
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_Step_
+  commentId: Overload:DrawingApplication.For.Step
+  isSpec: "True"
+  fullName: DrawingApplication.For.Step
+  nameWithType: For.Step
+- uid: DrawingApplication.For.To
+  name: To
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_To
+  commentId: P:DrawingApplication.For.To
+  fullName: DrawingApplication.For.To
+  nameWithType: For.To
+- uid: DrawingApplication.For.To*
+  name: To
+  href: docs/DrawingApplication.For.html#DrawingApplication_For_To_
+  commentId: Overload:DrawingApplication.For.To
+  isSpec: "True"
+  fullName: DrawingApplication.For.To
+  nameWithType: For.To
+- uid: DrawingApplication.If
+  name: If
+  href: docs/DrawingApplication.If.html
+  commentId: T:DrawingApplication.If
+  fullName: DrawingApplication.If
+  nameWithType: If
+- uid: DrawingApplication.Int
+  name: Int
+  href: docs/DrawingApplication.Int.html
+  commentId: T:DrawingApplication.Int
+  fullName: DrawingApplication.Int
+  nameWithType: Int
+- uid: DrawingApplication.Int.#ctor
+  name: Int()
+  href: docs/DrawingApplication.Int.html#DrawingApplication_Int__ctor
+  commentId: M:DrawingApplication.Int.#ctor
+  name.vb: New()
+  fullName: DrawingApplication.Int.Int()
+  fullName.vb: DrawingApplication.Int.New()
+  nameWithType: Int.Int()
+  nameWithType.vb: Int.New()
+- uid: DrawingApplication.Int.#ctor*
+  name: Int
+  href: docs/DrawingApplication.Int.html#DrawingApplication_Int__ctor_
+  commentId: Overload:DrawingApplication.Int.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.Int.Int
+  fullName.vb: DrawingApplication.Int.New
+  nameWithType: Int.Int
+  nameWithType.vb: Int.New
+- uid: DrawingApplication.Int.Execute
+  name: Execute()
+  href: docs/DrawingApplication.Int.html#DrawingApplication_Int_Execute
+  commentId: M:DrawingApplication.Int.Execute
+  fullName: DrawingApplication.Int.Execute()
+  nameWithType: Int.Execute()
+- uid: DrawingApplication.Int.Execute*
+  name: Execute
+  href: docs/DrawingApplication.Int.html#DrawingApplication_Int_Execute_
+  commentId: Overload:DrawingApplication.Int.Execute
+  isSpec: "True"
+  fullName: DrawingApplication.Int.Execute
+  nameWithType: Int.Execute
+- uid: DrawingApplication.Int.Restrictions
+  name: Restrictions()
+  href: docs/DrawingApplication.Int.html#DrawingApplication_Int_Restrictions
+  commentId: M:DrawingApplication.Int.Restrictions
+  fullName: DrawingApplication.Int.Restrictions()
+  nameWithType: Int.Restrictions()
+- uid: DrawingApplication.Int.Restrictions*
+  name: Restrictions
+  href: docs/DrawingApplication.Int.html#DrawingApplication_Int_Restrictions_
+  commentId: Overload:DrawingApplication.Int.Restrictions
+  isSpec: "True"
+  fullName: DrawingApplication.Int.Restrictions
+  nameWithType: Int.Restrictions
+- uid: DrawingApplication.Method
+  name: Method
+  href: docs/DrawingApplication.Method.html
+  commentId: T:DrawingApplication.Method
+  fullName: DrawingApplication.Method
+  nameWithType: Method
+- uid: DrawingApplication.Method.#ctor
+  name: Method()
+  href: docs/DrawingApplication.Method.html#DrawingApplication_Method__ctor
+  commentId: M:DrawingApplication.Method.#ctor
+  name.vb: New()
+  fullName: DrawingApplication.Method.Method()
+  fullName.vb: DrawingApplication.Method.New()
+  nameWithType: Method.Method()
+  nameWithType.vb: Method.New()
+- uid: DrawingApplication.Method.#ctor*
+  name: Method
+  href: docs/DrawingApplication.Method.html#DrawingApplication_Method__ctor_
+  commentId: Overload:DrawingApplication.Method.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.Method.Method
+  fullName.vb: DrawingApplication.Method.New
+  nameWithType: Method.Method
+  nameWithType.vb: Method.New
+- uid: DrawingApplication.Method.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/DrawingApplication.Method.html#DrawingApplication_Method_CheckParameters_System_String___
+  commentId: M:DrawingApplication.Method.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: DrawingApplication.Method.CheckParameters(string[])
+  fullName.vb: DrawingApplication.Method.CheckParameters(String())
+  nameWithType: Method.CheckParameters(string[])
+  nameWithType.vb: Method.CheckParameters(String())
+- uid: DrawingApplication.Method.CheckParameters*
+  name: CheckParameters
+  href: docs/DrawingApplication.Method.html#DrawingApplication_Method_CheckParameters_
+  commentId: Overload:DrawingApplication.Method.CheckParameters
+  isSpec: "True"
+  fullName: DrawingApplication.Method.CheckParameters
+  nameWithType: Method.CheckParameters
+- uid: DrawingApplication.Method.Execute
+  name: Execute()
+  href: docs/DrawingApplication.Method.html#DrawingApplication_Method_Execute
+  commentId: M:DrawingApplication.Method.Execute
+  fullName: DrawingApplication.Method.Execute()
+  nameWithType: Method.Execute()
+- uid: DrawingApplication.Method.Execute*
+  name: Execute
+  href: docs/DrawingApplication.Method.html#DrawingApplication_Method_Execute_
+  commentId: Overload:DrawingApplication.Method.Execute
+  isSpec: "True"
+  fullName: DrawingApplication.Method.Execute
+  nameWithType: Method.Execute
+- uid: DrawingApplication.Real
+  name: Real
+  href: docs/DrawingApplication.Real.html
+  commentId: T:DrawingApplication.Real
+  fullName: DrawingApplication.Real
+  nameWithType: Real
+- uid: DrawingApplication.Real.#ctor
+  name: Real()
+  href: docs/DrawingApplication.Real.html#DrawingApplication_Real__ctor
+  commentId: M:DrawingApplication.Real.#ctor
+  name.vb: New()
+  fullName: DrawingApplication.Real.Real()
+  fullName.vb: DrawingApplication.Real.New()
+  nameWithType: Real.Real()
+  nameWithType.vb: Real.New()
+- uid: DrawingApplication.Real.#ctor*
+  name: Real
+  href: docs/DrawingApplication.Real.html#DrawingApplication_Real__ctor_
+  commentId: Overload:DrawingApplication.Real.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.Real.Real
+  fullName.vb: DrawingApplication.Real.New
+  nameWithType: Real.Real
+  nameWithType.vb: Real.New
+- uid: DrawingApplication.Real.Execute
+  name: Execute()
+  href: docs/DrawingApplication.Real.html#DrawingApplication_Real_Execute
+  commentId: M:DrawingApplication.Real.Execute
+  fullName: DrawingApplication.Real.Execute()
+  nameWithType: Real.Execute()
+- uid: DrawingApplication.Real.Execute*
+  name: Execute
+  href: docs/DrawingApplication.Real.html#DrawingApplication_Real_Execute_
+  commentId: Overload:DrawingApplication.Real.Execute
+  isSpec: "True"
+  fullName: DrawingApplication.Real.Execute
+  nameWithType: Real.Execute
+- uid: DrawingApplication.Real.Restrictions
+  name: Restrictions()
+  href: docs/DrawingApplication.Real.html#DrawingApplication_Real_Restrictions
+  commentId: M:DrawingApplication.Real.Restrictions
+  fullName: DrawingApplication.Real.Restrictions()
+  nameWithType: Real.Restrictions()
+- uid: DrawingApplication.Real.Restrictions*
+  name: Restrictions
+  href: docs/DrawingApplication.Real.html#DrawingApplication_Real_Restrictions_
+  commentId: Overload:DrawingApplication.Real.Restrictions
+  isSpec: "True"
+  fullName: DrawingApplication.Real.Restrictions
+  nameWithType: Real.Restrictions
+- uid: DrawingApplication.Real.Value
+  name: Value
+  href: docs/DrawingApplication.Real.html#DrawingApplication_Real_Value
+  commentId: P:DrawingApplication.Real.Value
+  fullName: DrawingApplication.Real.Value
+  nameWithType: Real.Value
+- uid: DrawingApplication.Real.Value*
+  name: Value
+  href: docs/DrawingApplication.Real.html#DrawingApplication_Real_Value_
+  commentId: Overload:DrawingApplication.Real.Value
+  isSpec: "True"
+  fullName: DrawingApplication.Real.Value
+  nameWithType: Real.Value
+- uid: DrawingApplication.Rect
+  name: Rect
+  href: docs/DrawingApplication.Rect.html
+  commentId: T:DrawingApplication.Rect
+  fullName: DrawingApplication.Rect
+  nameWithType: Rect
+- uid: DrawingApplication.Rect.#ctor
+  name: Rect()
+  href: docs/DrawingApplication.Rect.html#DrawingApplication_Rect__ctor
+  commentId: M:DrawingApplication.Rect.#ctor
+  name.vb: New()
+  fullName: DrawingApplication.Rect.Rect()
+  fullName.vb: DrawingApplication.Rect.New()
   nameWithType: Rect.Rect()
   nameWithType.vb: Rect.New()
-- uid: Session_1.Rect.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+- uid: DrawingApplication.Rect.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
   name: Rect(Canvas, int, int)
-  href: boose/Session_1.Rect.html#Session_1_Rect__ctor_BOOSE_Canvas_System_Int32_System_Int32_
-  commentId: M:Session_1.Rect.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  href: docs/DrawingApplication.Rect.html#DrawingApplication_Rect__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.Rect.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
   name.vb: New(Canvas, Integer, Integer)
-  fullName: Session_1.Rect.Rect(BOOSE.Canvas, int, int)
-  fullName.vb: Session_1.Rect.New(BOOSE.Canvas, Integer, Integer)
+  fullName: DrawingApplication.Rect.Rect(BOOSE.Canvas, int, int)
+  fullName.vb: DrawingApplication.Rect.New(BOOSE.Canvas, Integer, Integer)
   nameWithType: Rect.Rect(Canvas, int, int)
   nameWithType.vb: Rect.New(Canvas, Integer, Integer)
-- uid: Session_1.Rect.#ctor*
+- uid: DrawingApplication.Rect.#ctor*
   name: Rect
-  href: boose/Session_1.Rect.html#Session_1_Rect__ctor_
-  commentId: Overload:Session_1.Rect.#ctor
+  href: docs/DrawingApplication.Rect.html#DrawingApplication_Rect__ctor_
+  commentId: Overload:DrawingApplication.Rect.#ctor
   isSpec: "True"
   name.vb: New
-  fullName: Session_1.Rect.Rect
-  fullName.vb: Session_1.Rect.New
+  fullName: DrawingApplication.Rect.Rect
+  fullName.vb: DrawingApplication.Rect.New
   nameWithType: Rect.Rect
   nameWithType.vb: Rect.New
-- uid: Session_1.Rect.CheckParameters(System.String[])
+- uid: DrawingApplication.Rect.CheckParameters(System.String[])
   name: CheckParameters(string[])
-  href: boose/Session_1.Rect.html#Session_1_Rect_CheckParameters_System_String___
-  commentId: M:Session_1.Rect.CheckParameters(System.String[])
+  href: docs/DrawingApplication.Rect.html#DrawingApplication_Rect_CheckParameters_System_String___
+  commentId: M:DrawingApplication.Rect.CheckParameters(System.String[])
   name.vb: CheckParameters(String())
-  fullName: Session_1.Rect.CheckParameters(string[])
-  fullName.vb: Session_1.Rect.CheckParameters(String())
+  fullName: DrawingApplication.Rect.CheckParameters(string[])
+  fullName.vb: DrawingApplication.Rect.CheckParameters(String())
   nameWithType: Rect.CheckParameters(string[])
   nameWithType.vb: Rect.CheckParameters(String())
-- uid: Session_1.Rect.CheckParameters*
+- uid: DrawingApplication.Rect.CheckParameters*
   name: CheckParameters
-  href: boose/Session_1.Rect.html#Session_1_Rect_CheckParameters_
-  commentId: Overload:Session_1.Rect.CheckParameters
+  href: docs/DrawingApplication.Rect.html#DrawingApplication_Rect_CheckParameters_
+  commentId: Overload:DrawingApplication.Rect.CheckParameters
   isSpec: "True"
-  fullName: Session_1.Rect.CheckParameters
+  fullName: DrawingApplication.Rect.CheckParameters
   nameWithType: Rect.CheckParameters
-- uid: Session_1.Rect.Execute
+- uid: DrawingApplication.Rect.Execute
   name: Execute()
-  href: boose/Session_1.Rect.html#Session_1_Rect_Execute
-  commentId: M:Session_1.Rect.Execute
-  fullName: Session_1.Rect.Execute()
+  href: docs/DrawingApplication.Rect.html#DrawingApplication_Rect_Execute
+  commentId: M:DrawingApplication.Rect.Execute
+  fullName: DrawingApplication.Rect.Execute()
   nameWithType: Rect.Execute()
-- uid: Session_1.Rect.Execute*
+- uid: DrawingApplication.Rect.Execute*
   name: Execute
-  href: boose/Session_1.Rect.html#Session_1_Rect_Execute_
-  commentId: Overload:Session_1.Rect.Execute
+  href: docs/DrawingApplication.Rect.html#DrawingApplication_Rect_Execute_
+  commentId: Overload:DrawingApplication.Rect.Execute
   isSpec: "True"
-  fullName: Session_1.Rect.Execute
+  fullName: DrawingApplication.Rect.Execute
   nameWithType: Rect.Execute
-- uid: Session_1.Reset
+- uid: DrawingApplication.Reset
   name: Reset
-  href: boose/Session_1.Reset.html
-  commentId: T:Session_1.Reset
-  fullName: Session_1.Reset
+  href: docs/DrawingApplication.Reset.html
+  commentId: T:DrawingApplication.Reset
+  fullName: DrawingApplication.Reset
   nameWithType: Reset
-- uid: Session_1.Reset.#ctor
+- uid: DrawingApplication.Reset.#ctor
   name: Reset()
-  href: boose/Session_1.Reset.html#Session_1_Reset__ctor
-  commentId: M:Session_1.Reset.#ctor
+  href: docs/DrawingApplication.Reset.html#DrawingApplication_Reset__ctor
+  commentId: M:DrawingApplication.Reset.#ctor
   name.vb: New()
-  fullName: Session_1.Reset.Reset()
-  fullName.vb: Session_1.Reset.New()
+  fullName: DrawingApplication.Reset.Reset()
+  fullName.vb: DrawingApplication.Reset.New()
   nameWithType: Reset.Reset()
   nameWithType.vb: Reset.New()
-- uid: Session_1.Reset.#ctor(BOOSE.Canvas)
+- uid: DrawingApplication.Reset.#ctor(BOOSE.Canvas)
   name: Reset(Canvas)
-  href: boose/Session_1.Reset.html#Session_1_Reset__ctor_BOOSE_Canvas_
-  commentId: M:Session_1.Reset.#ctor(BOOSE.Canvas)
+  href: docs/DrawingApplication.Reset.html#DrawingApplication_Reset__ctor_BOOSE_Canvas_
+  commentId: M:DrawingApplication.Reset.#ctor(BOOSE.Canvas)
   name.vb: New(Canvas)
-  fullName: Session_1.Reset.Reset(BOOSE.Canvas)
-  fullName.vb: Session_1.Reset.New(BOOSE.Canvas)
+  fullName: DrawingApplication.Reset.Reset(BOOSE.Canvas)
+  fullName.vb: DrawingApplication.Reset.New(BOOSE.Canvas)
   nameWithType: Reset.Reset(Canvas)
   nameWithType.vb: Reset.New(Canvas)
-- uid: Session_1.Reset.#ctor*
+- uid: DrawingApplication.Reset.#ctor*
   name: Reset
-  href: boose/Session_1.Reset.html#Session_1_Reset__ctor_
-  commentId: Overload:Session_1.Reset.#ctor
+  href: docs/DrawingApplication.Reset.html#DrawingApplication_Reset__ctor_
+  commentId: Overload:DrawingApplication.Reset.#ctor
   isSpec: "True"
   name.vb: New
-  fullName: Session_1.Reset.Reset
-  fullName.vb: Session_1.Reset.New
+  fullName: DrawingApplication.Reset.Reset
+  fullName.vb: DrawingApplication.Reset.New
   nameWithType: Reset.Reset
   nameWithType.vb: Reset.New
-- uid: Session_1.Reset.Execute
+- uid: DrawingApplication.Reset.Execute
   name: Execute()
-  href: boose/Session_1.Reset.html#Session_1_Reset_Execute
-  commentId: M:Session_1.Reset.Execute
-  fullName: Session_1.Reset.Execute()
+  href: docs/DrawingApplication.Reset.html#DrawingApplication_Reset_Execute
+  commentId: M:DrawingApplication.Reset.Execute
+  fullName: DrawingApplication.Reset.Execute()
   nameWithType: Reset.Execute()
-- uid: Session_1.Reset.Execute*
+- uid: DrawingApplication.Reset.Execute*
   name: Execute
-  href: boose/Session_1.Reset.html#Session_1_Reset_Execute_
-  commentId: Overload:Session_1.Reset.Execute
+  href: docs/DrawingApplication.Reset.html#DrawingApplication_Reset_Execute_
+  commentId: Overload:DrawingApplication.Reset.Execute
   isSpec: "True"
-  fullName: Session_1.Reset.Execute
+  fullName: DrawingApplication.Reset.Execute
   nameWithType: Reset.Execute
-- uid: Session_1.Tri
+- uid: DrawingApplication.Tri
   name: Tri
-  href: boose/Session_1.Tri.html
-  commentId: T:Session_1.Tri
-  fullName: Session_1.Tri
+  href: docs/DrawingApplication.Tri.html
+  commentId: T:DrawingApplication.Tri
+  fullName: DrawingApplication.Tri
   nameWithType: Tri
-- uid: Session_1.Tri.#ctor
+- uid: DrawingApplication.Tri.#ctor
   name: Tri()
-  href: boose/Session_1.Tri.html#Session_1_Tri__ctor
-  commentId: M:Session_1.Tri.#ctor
+  href: docs/DrawingApplication.Tri.html#DrawingApplication_Tri__ctor
+  commentId: M:DrawingApplication.Tri.#ctor
   name.vb: New()
-  fullName: Session_1.Tri.Tri()
-  fullName.vb: Session_1.Tri.New()
+  fullName: DrawingApplication.Tri.Tri()
+  fullName.vb: DrawingApplication.Tri.New()
   nameWithType: Tri.Tri()
   nameWithType.vb: Tri.New()
-- uid: Session_1.Tri.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+- uid: DrawingApplication.Tri.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
   name: Tri(Canvas, int, int)
-  href: boose/Session_1.Tri.html#Session_1_Tri__ctor_BOOSE_Canvas_System_Int32_System_Int32_
-  commentId: M:Session_1.Tri.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  href: docs/DrawingApplication.Tri.html#DrawingApplication_Tri__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  commentId: M:DrawingApplication.Tri.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
   name.vb: New(Canvas, Integer, Integer)
-  fullName: Session_1.Tri.Tri(BOOSE.Canvas, int, int)
-  fullName.vb: Session_1.Tri.New(BOOSE.Canvas, Integer, Integer)
+  fullName: DrawingApplication.Tri.Tri(BOOSE.Canvas, int, int)
+  fullName.vb: DrawingApplication.Tri.New(BOOSE.Canvas, Integer, Integer)
   nameWithType: Tri.Tri(Canvas, int, int)
   nameWithType.vb: Tri.New(Canvas, Integer, Integer)
-- uid: Session_1.Tri.#ctor*
+- uid: DrawingApplication.Tri.#ctor*
   name: Tri
-  href: boose/Session_1.Tri.html#Session_1_Tri__ctor_
-  commentId: Overload:Session_1.Tri.#ctor
+  href: docs/DrawingApplication.Tri.html#DrawingApplication_Tri__ctor_
+  commentId: Overload:DrawingApplication.Tri.#ctor
   isSpec: "True"
   name.vb: New
-  fullName: Session_1.Tri.Tri
-  fullName.vb: Session_1.Tri.New
+  fullName: DrawingApplication.Tri.Tri
+  fullName.vb: DrawingApplication.Tri.New
   nameWithType: Tri.Tri
   nameWithType.vb: Tri.New
-- uid: Session_1.Tri.CheckParameters(System.String[])
+- uid: DrawingApplication.Tri.CheckParameters(System.String[])
   name: CheckParameters(string[])
-  href: boose/Session_1.Tri.html#Session_1_Tri_CheckParameters_System_String___
-  commentId: M:Session_1.Tri.CheckParameters(System.String[])
+  href: docs/DrawingApplication.Tri.html#DrawingApplication_Tri_CheckParameters_System_String___
+  commentId: M:DrawingApplication.Tri.CheckParameters(System.String[])
   name.vb: CheckParameters(String())
-  fullName: Session_1.Tri.CheckParameters(string[])
-  fullName.vb: Session_1.Tri.CheckParameters(String())
+  fullName: DrawingApplication.Tri.CheckParameters(string[])
+  fullName.vb: DrawingApplication.Tri.CheckParameters(String())
   nameWithType: Tri.CheckParameters(string[])
   nameWithType.vb: Tri.CheckParameters(String())
-- uid: Session_1.Tri.CheckParameters*
+- uid: DrawingApplication.Tri.CheckParameters*
   name: CheckParameters
-  href: boose/Session_1.Tri.html#Session_1_Tri_CheckParameters_
-  commentId: Overload:Session_1.Tri.CheckParameters
+  href: docs/DrawingApplication.Tri.html#DrawingApplication_Tri_CheckParameters_
+  commentId: Overload:DrawingApplication.Tri.CheckParameters
   isSpec: "True"
-  fullName: Session_1.Tri.CheckParameters
+  fullName: DrawingApplication.Tri.CheckParameters
   nameWithType: Tri.CheckParameters
-- uid: Session_1.Tri.Execute
+- uid: DrawingApplication.Tri.Execute
   name: Execute()
-  href: boose/Session_1.Tri.html#Session_1_Tri_Execute
-  commentId: M:Session_1.Tri.Execute
-  fullName: Session_1.Tri.Execute()
+  href: docs/DrawingApplication.Tri.html#DrawingApplication_Tri_Execute
+  commentId: M:DrawingApplication.Tri.Execute
+  fullName: DrawingApplication.Tri.Execute()
   nameWithType: Tri.Execute()
-- uid: Session_1.Tri.Execute*
+- uid: DrawingApplication.Tri.Execute*
   name: Execute
-  href: boose/Session_1.Tri.html#Session_1_Tri_Execute_
-  commentId: Overload:Session_1.Tri.Execute
+  href: docs/DrawingApplication.Tri.html#DrawingApplication_Tri_Execute_
+  commentId: Overload:DrawingApplication.Tri.Execute
   isSpec: "True"
-  fullName: Session_1.Tri.Execute
+  fullName: DrawingApplication.Tri.Execute
   nameWithType: Tri.Execute
-- uid: Session_1.WriteText
-  name: WriteText
-  href: boose/Session_1.WriteText.html
-  commentId: T:Session_1.WriteText
-  fullName: Session_1.WriteText
-  nameWithType: WriteText
-- uid: Session_1.WriteText.#ctor
-  name: WriteText()
-  href: boose/Session_1.WriteText.html#Session_1_WriteText__ctor
-  commentId: M:Session_1.WriteText.#ctor
+- uid: DrawingApplication.Triforce
+  name: Triforce
+  href: docs/DrawingApplication.Triforce.html
+  commentId: T:DrawingApplication.Triforce
+  fullName: DrawingApplication.Triforce
+  nameWithType: Triforce
+- uid: DrawingApplication.Triforce.#ctor
+  name: Triforce()
+  href: docs/DrawingApplication.Triforce.html#DrawingApplication_Triforce__ctor
+  commentId: M:DrawingApplication.Triforce.#ctor
   name.vb: New()
-  fullName: Session_1.WriteText.WriteText()
-  fullName.vb: Session_1.WriteText.New()
-  nameWithType: WriteText.WriteText()
-  nameWithType.vb: WriteText.New()
-- uid: Session_1.WriteText.#ctor(BOOSE.Canvas,System.String)
-  name: WriteText(Canvas, string)
-  href: boose/Session_1.WriteText.html#Session_1_WriteText__ctor_BOOSE_Canvas_System_String_
-  commentId: M:Session_1.WriteText.#ctor(BOOSE.Canvas,System.String)
-  name.vb: New(Canvas, String)
-  fullName: Session_1.WriteText.WriteText(BOOSE.Canvas, string)
-  fullName.vb: Session_1.WriteText.New(BOOSE.Canvas, String)
-  nameWithType: WriteText.WriteText(Canvas, string)
-  nameWithType.vb: WriteText.New(Canvas, String)
-- uid: Session_1.WriteText.#ctor*
-  name: WriteText
-  href: boose/Session_1.WriteText.html#Session_1_WriteText__ctor_
-  commentId: Overload:Session_1.WriteText.#ctor
+  fullName: DrawingApplication.Triforce.Triforce()
+  fullName.vb: DrawingApplication.Triforce.New()
+  nameWithType: Triforce.Triforce()
+  nameWithType.vb: Triforce.New()
+- uid: DrawingApplication.Triforce.#ctor(BOOSE.Canvas,System.Int32)
+  name: Triforce(Canvas, int)
+  href: docs/DrawingApplication.Triforce.html#DrawingApplication_Triforce__ctor_BOOSE_Canvas_System_Int32_
+  commentId: M:DrawingApplication.Triforce.#ctor(BOOSE.Canvas,System.Int32)
+  name.vb: New(Canvas, Integer)
+  fullName: DrawingApplication.Triforce.Triforce(BOOSE.Canvas, int)
+  fullName.vb: DrawingApplication.Triforce.New(BOOSE.Canvas, Integer)
+  nameWithType: Triforce.Triforce(Canvas, int)
+  nameWithType.vb: Triforce.New(Canvas, Integer)
+- uid: DrawingApplication.Triforce.#ctor*
+  name: Triforce
+  href: docs/DrawingApplication.Triforce.html#DrawingApplication_Triforce__ctor_
+  commentId: Overload:DrawingApplication.Triforce.#ctor
   isSpec: "True"
   name.vb: New
-  fullName: Session_1.WriteText.WriteText
-  fullName.vb: Session_1.WriteText.New
+  fullName: DrawingApplication.Triforce.Triforce
+  fullName.vb: DrawingApplication.Triforce.New
+  nameWithType: Triforce.Triforce
+  nameWithType.vb: Triforce.New
+- uid: DrawingApplication.Triforce.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/DrawingApplication.Triforce.html#DrawingApplication_Triforce_CheckParameters_System_String___
+  commentId: M:DrawingApplication.Triforce.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: DrawingApplication.Triforce.CheckParameters(string[])
+  fullName.vb: DrawingApplication.Triforce.CheckParameters(String())
+  nameWithType: Triforce.CheckParameters(string[])
+  nameWithType.vb: Triforce.CheckParameters(String())
+- uid: DrawingApplication.Triforce.CheckParameters*
+  name: CheckParameters
+  href: docs/DrawingApplication.Triforce.html#DrawingApplication_Triforce_CheckParameters_
+  commentId: Overload:DrawingApplication.Triforce.CheckParameters
+  isSpec: "True"
+  fullName: DrawingApplication.Triforce.CheckParameters
+  nameWithType: Triforce.CheckParameters
+- uid: DrawingApplication.Triforce.Execute
+  name: Execute()
+  href: docs/DrawingApplication.Triforce.html#DrawingApplication_Triforce_Execute
+  commentId: M:DrawingApplication.Triforce.Execute
+  fullName: DrawingApplication.Triforce.Execute()
+  nameWithType: Triforce.Execute()
+- uid: DrawingApplication.Triforce.Execute*
+  name: Execute
+  href: docs/DrawingApplication.Triforce.html#DrawingApplication_Triforce_Execute_
+  commentId: Overload:DrawingApplication.Triforce.Execute
+  isSpec: "True"
+  fullName: DrawingApplication.Triforce.Execute
+  nameWithType: Triforce.Execute
+- uid: DrawingApplication.While
+  name: While
+  href: docs/DrawingApplication.While.html
+  commentId: T:DrawingApplication.While
+  fullName: DrawingApplication.While
+  nameWithType: While
+- uid: DrawingApplication.Write
+  name: Write
+  href: docs/DrawingApplication.Write.html
+  commentId: T:DrawingApplication.Write
+  fullName: DrawingApplication.Write
+  nameWithType: Write
+- uid: DrawingApplication.Write.#ctor
+  name: Write()
+  href: docs/DrawingApplication.Write.html#DrawingApplication_Write__ctor
+  commentId: M:DrawingApplication.Write.#ctor
+  name.vb: New()
+  fullName: DrawingApplication.Write.Write()
+  fullName.vb: DrawingApplication.Write.New()
+  nameWithType: Write.Write()
+  nameWithType.vb: Write.New()
+- uid: DrawingApplication.Write.#ctor*
+  name: Write
+  href: docs/DrawingApplication.Write.html#DrawingApplication_Write__ctor_
+  commentId: Overload:DrawingApplication.Write.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.Write.Write
+  fullName.vb: DrawingApplication.Write.New
+  nameWithType: Write.Write
+  nameWithType.vb: Write.New
+- uid: DrawingApplication.Write.CheckParameters(System.String[])
+  name: CheckParameters(string[])
+  href: docs/DrawingApplication.Write.html#DrawingApplication_Write_CheckParameters_System_String___
+  commentId: M:DrawingApplication.Write.CheckParameters(System.String[])
+  name.vb: CheckParameters(String())
+  fullName: DrawingApplication.Write.CheckParameters(string[])
+  fullName.vb: DrawingApplication.Write.CheckParameters(String())
+  nameWithType: Write.CheckParameters(string[])
+  nameWithType.vb: Write.CheckParameters(String())
+- uid: DrawingApplication.Write.CheckParameters*
+  name: CheckParameters
+  href: docs/DrawingApplication.Write.html#DrawingApplication_Write_CheckParameters_
+  commentId: Overload:DrawingApplication.Write.CheckParameters
+  isSpec: "True"
+  fullName: DrawingApplication.Write.CheckParameters
+  nameWithType: Write.CheckParameters
+- uid: DrawingApplication.Write.Execute
+  name: Execute()
+  href: docs/DrawingApplication.Write.html#DrawingApplication_Write_Execute
+  commentId: M:DrawingApplication.Write.Execute
+  fullName: DrawingApplication.Write.Execute()
+  nameWithType: Write.Execute()
+- uid: DrawingApplication.Write.Execute*
+  name: Execute
+  href: docs/DrawingApplication.Write.html#DrawingApplication_Write_Execute_
+  commentId: Overload:DrawingApplication.Write.Execute
+  isSpec: "True"
+  fullName: DrawingApplication.Write.Execute
+  nameWithType: Write.Execute
+- uid: DrawingApplication.WriteText
+  name: WriteText
+  href: docs/DrawingApplication.WriteText.html
+  commentId: T:DrawingApplication.WriteText
+  fullName: DrawingApplication.WriteText
+  nameWithType: WriteText
+- uid: DrawingApplication.WriteText.#ctor
+  name: WriteText()
+  href: docs/DrawingApplication.WriteText.html#DrawingApplication_WriteText__ctor
+  commentId: M:DrawingApplication.WriteText.#ctor
+  name.vb: New()
+  fullName: DrawingApplication.WriteText.WriteText()
+  fullName.vb: DrawingApplication.WriteText.New()
+  nameWithType: WriteText.WriteText()
+  nameWithType.vb: WriteText.New()
+- uid: DrawingApplication.WriteText.#ctor(BOOSE.Canvas,System.String)
+  name: WriteText(Canvas, string)
+  href: docs/DrawingApplication.WriteText.html#DrawingApplication_WriteText__ctor_BOOSE_Canvas_System_String_
+  commentId: M:DrawingApplication.WriteText.#ctor(BOOSE.Canvas,System.String)
+  name.vb: New(Canvas, String)
+  fullName: DrawingApplication.WriteText.WriteText(BOOSE.Canvas, string)
+  fullName.vb: DrawingApplication.WriteText.New(BOOSE.Canvas, String)
+  nameWithType: WriteText.WriteText(Canvas, string)
+  nameWithType.vb: WriteText.New(Canvas, String)
+- uid: DrawingApplication.WriteText.#ctor*
+  name: WriteText
+  href: docs/DrawingApplication.WriteText.html#DrawingApplication_WriteText__ctor_
+  commentId: Overload:DrawingApplication.WriteText.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: DrawingApplication.WriteText.WriteText
+  fullName.vb: DrawingApplication.WriteText.New
   nameWithType: WriteText.WriteText
   nameWithType.vb: WriteText.New
-- uid: Session_1.WriteText.CheckParameters(System.String[])
+- uid: DrawingApplication.WriteText.CheckParameters(System.String[])
   name: CheckParameters(string[])
-  href: boose/Session_1.WriteText.html#Session_1_WriteText_CheckParameters_System_String___
-  commentId: M:Session_1.WriteText.CheckParameters(System.String[])
+  href: docs/DrawingApplication.WriteText.html#DrawingApplication_WriteText_CheckParameters_System_String___
+  commentId: M:DrawingApplication.WriteText.CheckParameters(System.String[])
   name.vb: CheckParameters(String())
-  fullName: Session_1.WriteText.CheckParameters(string[])
-  fullName.vb: Session_1.WriteText.CheckParameters(String())
+  fullName: DrawingApplication.WriteText.CheckParameters(string[])
+  fullName.vb: DrawingApplication.WriteText.CheckParameters(String())
   nameWithType: WriteText.CheckParameters(string[])
   nameWithType.vb: WriteText.CheckParameters(String())
-- uid: Session_1.WriteText.CheckParameters*
+- uid: DrawingApplication.WriteText.CheckParameters*
   name: CheckParameters
-  href: boose/Session_1.WriteText.html#Session_1_WriteText_CheckParameters_
-  commentId: Overload:Session_1.WriteText.CheckParameters
+  href: docs/DrawingApplication.WriteText.html#DrawingApplication_WriteText_CheckParameters_
+  commentId: Overload:DrawingApplication.WriteText.CheckParameters
   isSpec: "True"
-  fullName: Session_1.WriteText.CheckParameters
+  fullName: DrawingApplication.WriteText.CheckParameters
   nameWithType: WriteText.CheckParameters
-- uid: Session_1.WriteText.Execute
+- uid: DrawingApplication.WriteText.Execute
   name: Execute()
-  href: boose/Session_1.WriteText.html#Session_1_WriteText_Execute
-  commentId: M:Session_1.WriteText.Execute
-  fullName: Session_1.WriteText.Execute()
+  href: docs/DrawingApplication.WriteText.html#DrawingApplication_WriteText_Execute
+  commentId: M:DrawingApplication.WriteText.Execute
+  fullName: DrawingApplication.WriteText.Execute()
   nameWithType: WriteText.Execute()
-- uid: Session_1.WriteText.Execute*
+- uid: DrawingApplication.WriteText.Execute*
   name: Execute
-  href: boose/Session_1.WriteText.html#Session_1_WriteText_Execute_
-  commentId: Overload:Session_1.WriteText.Execute
+  href: docs/DrawingApplication.WriteText.html#DrawingApplication_WriteText_Execute_
+  commentId: Overload:DrawingApplication.WriteText.Execute
   isSpec: "True"
-  fullName: Session_1.WriteText.Execute
+  fullName: DrawingApplication.WriteText.Execute
   nameWithType: WriteText.Execute

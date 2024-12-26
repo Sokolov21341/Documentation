@@ -1,5 +1,5 @@
 {
-  "source_base_path": "D:/Users/Ryan Benddif/Desktop/git repo/Documentation",
+  "source_base_path": "D:/Users/Ryan Benddif/Desktop/New folder (2)",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -12,103 +12,253 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "boose/Session_1.AsCanvas.yml",
+      "source_relative_path": "docs/DrawingApplication.Application_UI.yml",
       "output": {
         ".html": {
-          "relative_path": "boose/Session_1.AsCanvas.html"
+          "relative_path": "docs/DrawingApplication.Application_UI.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "boose/Session_1.AsCommandFactory.yml",
+      "source_relative_path": "docs/DrawingApplication.Array.yml",
       "output": {
         ".html": {
-          "relative_path": "boose/Session_1.AsCommandFactory.html"
+          "relative_path": "docs/DrawingApplication.Array.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "boose/Session_1.Clear.yml",
+      "source_relative_path": "docs/DrawingApplication.AsCanvas.yml",
       "output": {
         ".html": {
-          "relative_path": "boose/Session_1.Clear.html"
+          "relative_path": "docs/DrawingApplication.AsCanvas.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "boose/Session_1.Form1.yml",
+      "source_relative_path": "docs/DrawingApplication.AsCommandFactory.yml",
       "output": {
         ".html": {
-          "relative_path": "boose/Session_1.Form1.html"
+          "relative_path": "docs/DrawingApplication.AsCommandFactory.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "boose/Session_1.Rect.yml",
+      "source_relative_path": "docs/DrawingApplication.AsParser.yml",
       "output": {
         ".html": {
-          "relative_path": "boose/Session_1.Rect.html"
+          "relative_path": "docs/DrawingApplication.AsParser.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "boose/Session_1.Reset.yml",
+      "source_relative_path": "docs/DrawingApplication.AsStoredProgram.yml",
       "output": {
         ".html": {
-          "relative_path": "boose/Session_1.Reset.html"
+          "relative_path": "docs/DrawingApplication.AsStoredProgram.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "boose/Session_1.Tri.yml",
+      "source_relative_path": "docs/DrawingApplication.Boolean.yml",
       "output": {
         ".html": {
-          "relative_path": "boose/Session_1.Tri.html"
+          "relative_path": "docs/DrawingApplication.Boolean.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "boose/Session_1.WriteText.yml",
+      "source_relative_path": "docs/DrawingApplication.Clear.yml",
       "output": {
         ".html": {
-          "relative_path": "boose/Session_1.WriteText.html"
+          "relative_path": "docs/DrawingApplication.Clear.html"
         }
       },
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "boose/Session_1.yml",
+      "source_relative_path": "docs/DrawingApplication.CompoundCommand.yml",
       "output": {
         ".html": {
-          "relative_path": "boose/Session_1.html"
+          "relative_path": "docs/DrawingApplication.CompoundCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.Else.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.Else.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.End.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.End.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.For.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.For.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.If.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.If.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.Int.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.Int.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.Method.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.Method.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.Real.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.Real.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.Rect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.Rect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.Reset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.Reset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.Tri.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.Tri.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.Triforce.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.Triforce.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.While.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.While.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.Write.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.Write.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.WriteText.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.WriteText.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/DrawingApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/DrawingApplication.html"
         }
       },
       "version": ""
     },
     {
       "type": "Toc",
-      "source_relative_path": "boose/toc.yml",
+      "source_relative_path": "docs/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "boose/toc.html"
+          "relative_path": "docs/toc.html"
         },
         ".json": {
-          "relative_path": "boose/toc.json"
+          "relative_path": "docs/toc.json"
         }
       },
       "version": ""
